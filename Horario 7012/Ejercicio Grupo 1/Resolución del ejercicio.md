@@ -18,7 +18,7 @@ Ho: B4=0
 H1: B4≠0	 	 	 	 	 
 Ht5:El  estrés influenciaría en los niveles de los salarios	 	 
 Ho: B5=0	 	 	 	 	 
-H1: B5≠0	 	 	 	 	 
+H1: B5≠0		 	 	 	 
 Ht6: Las estrategias  influenciaría en los niveles de los salarios	 
 Ho: B6=0	 	 	 	 	 
 H1: B6≠0	 	 	 	 	 
